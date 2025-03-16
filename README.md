@@ -1,2 +1,2 @@
-# hello_worlds
+# Hello Worlds
 "Hello world" in different languages
